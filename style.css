@@ -1,0 +1,10 @@
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+
+body{
+    background-image: url("song\ background.webp");
+    background-size: cover;
+}
